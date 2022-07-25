@@ -1,1 +1,1 @@
-# Python code for Gradio UI in Deep Learning
+# Python code for developing UI in Deep Learning
